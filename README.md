@@ -6,6 +6,12 @@ Here are my social media links.
     <a href="https://t.me/asil_0903">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25px">
     </a>
+    <a href="[https://t.me/asil_0903](https://www.linkedin.com/in/saidov-asilbek-2a639823a)">
+      <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="25px">
+    </a>
+     <a href="https://t.me/asil_0903">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="25px">
+    </a>
 </div>
 <br>
 ### Languages and toolsd i work with: 
