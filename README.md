@@ -25,5 +25,5 @@ Here are my social media links.
 <code><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px"></code>
 <code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="30px"></code>
 <br>
- -📍 &nbsp; Current location Tashkent, Uzbekistan📃
+ -📍 &nbsp; Current location Tashkent, Uzbekistan📃  <br>
  - 📃: How to reach me:https://t.me/asil_0903
