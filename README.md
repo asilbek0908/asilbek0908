@@ -14,7 +14,7 @@ Here are my social media links.
     </a>
 </div>
 <br>
- Languages and toolsd i work with:
+ Languages and tools i work with:
  <br>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="30px" ></code>
 <code><img src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png"width="30px"></code>
