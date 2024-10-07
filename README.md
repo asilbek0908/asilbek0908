@@ -1,9 +1,9 @@
-### Hi, I am Saidov Asilbek and I am Intern Software Engineer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi, I am Saidov Asilbek and I am Intern Software Engineer Specialized on Node.js Backend development and some frontend too
 
 <br><br>
 Here are my social media links.
 <div>
-    <a href="https://t.me/asil_0903">
+    <a href="https://t.me/AsilbekSaidov">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25px">
     </a>
     <a href="https://www.linkedin.com/in/saidov-asilbek-2a639823a">
@@ -26,4 +26,4 @@ Here are my social media links.
 <code><img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="30px"></code>
 <br>
  -📍 &nbsp; Current location Tashkent, Uzbekistan📃  <br>
- - 📃: How to reach me:https://t.me/asil_0903
+ - 📃: How to reach me:https://t.me/AsilbekSaidov
