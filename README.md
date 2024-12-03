@@ -1,4 +1,4 @@
-### Hi, I am Saidov Asilbek and I am Intern Software Engineer Specialized on Node.js Backend development and some frontend too
+### Hi, I am Asilbek and I am Intern Software Engineer Specialized on Node.js Backend development and some frontend too
 
 <br><br>
 Here are my social media links.
